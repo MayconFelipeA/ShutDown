@@ -1,0 +1,14 @@
+C:\Users\Maycon\Documents\MeusProjetos\ShutDown\ShutDownAPP\ShutDownAPP\bin\Release\ShutDownAPP.exe.config
+C:\Users\Maycon\Documents\MeusProjetos\ShutDown\ShutDownAPP\ShutDownAPP\bin\Release\ShutDownAPP.exe.manifest
+C:\Users\Maycon\Documents\MeusProjetos\ShutDown\ShutDownAPP\ShutDownAPP\bin\Release\ShutDownAPP.application
+C:\Users\Maycon\Documents\MeusProjetos\ShutDown\ShutDownAPP\ShutDownAPP\bin\Release\ShutDownAPP.exe
+C:\Users\Maycon\Documents\MeusProjetos\ShutDown\ShutDownAPP\ShutDownAPP\bin\Release\ShutDownAPP.pdb
+C:\Users\Maycon\Documents\MeusProjetos\ShutDown\ShutDownAPP\ShutDownAPP\obj\Release\ShutDownAPP.csprojAssemblyReference.cache
+C:\Users\Maycon\Documents\MeusProjetos\ShutDown\ShutDownAPP\ShutDownAPP\obj\Release\ShutDownAPP.Form1.resources
+C:\Users\Maycon\Documents\MeusProjetos\ShutDown\ShutDownAPP\ShutDownAPP\obj\Release\ShutDownAPP.Properties.Resources.resources
+C:\Users\Maycon\Documents\MeusProjetos\ShutDown\ShutDownAPP\ShutDownAPP\obj\Release\ShutDownAPP.csproj.GenerateResource.cache
+C:\Users\Maycon\Documents\MeusProjetos\ShutDown\ShutDownAPP\ShutDownAPP\obj\Release\ShutDownAPP.csproj.CoreCompileInputs.cache
+C:\Users\Maycon\Documents\MeusProjetos\ShutDown\ShutDownAPP\ShutDownAPP\obj\Release\ShutDownAPP.exe.manifest
+C:\Users\Maycon\Documents\MeusProjetos\ShutDown\ShutDownAPP\ShutDownAPP\obj\Release\ShutDownAPP.application
+C:\Users\Maycon\Documents\MeusProjetos\ShutDown\ShutDownAPP\ShutDownAPP\obj\Release\ShutDownAPP.exe
+C:\Users\Maycon\Documents\MeusProjetos\ShutDown\ShutDownAPP\ShutDownAPP\obj\Release\ShutDownAPP.pdb

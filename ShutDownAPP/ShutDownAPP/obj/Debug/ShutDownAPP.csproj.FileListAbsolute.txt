@@ -1,0 +1,48 @@
+C:\Users\Maycon\source\repos\ShutDownAPP\ShutDownAPP\bin\Debug\ShutDownAPP.exe.config
+C:\Users\Maycon\source\repos\ShutDownAPP\ShutDownAPP\bin\Debug\ShutDownAPP.exe
+C:\Users\Maycon\source\repos\ShutDownAPP\ShutDownAPP\bin\Debug\ShutDownAPP.pdb
+C:\Users\Maycon\source\repos\ShutDownAPP\ShutDownAPP\obj\Debug\ShutDownAPP.csprojAssemblyReference.cache
+C:\Users\Maycon\source\repos\ShutDownAPP\ShutDownAPP\obj\Debug\ShutDownAPP.Form1.resources
+C:\Users\Maycon\source\repos\ShutDownAPP\ShutDownAPP\obj\Debug\ShutDownAPP.Properties.Resources.resources
+C:\Users\Maycon\source\repos\ShutDownAPP\ShutDownAPP\obj\Debug\ShutDownAPP.csproj.GenerateResource.cache
+C:\Users\Maycon\source\repos\ShutDownAPP\ShutDownAPP\obj\Debug\ShutDownAPP.csproj.CoreCompileInputs.cache
+C:\Users\Maycon\source\repos\ShutDownAPP\ShutDownAPP\obj\Debug\ShutDownAPP.exe
+C:\Users\Maycon\source\repos\ShutDownAPP\ShutDownAPP\obj\Debug\ShutDownAPP.pdb
+C:\Users\Maycon\source\repos\ShutDownAPP\ShutDownAPP\bin\Debug\ShutDownAPP.exe.manifest
+C:\Users\Maycon\source\repos\ShutDownAPP\ShutDownAPP\bin\Debug\ShutDownAPP.application
+C:\Users\Maycon\source\repos\ShutDownAPP\ShutDownAPP\obj\Debug\ShutDownAPP.exe.manifest
+C:\Users\Maycon\source\repos\ShutDownAPP\ShutDownAPP\obj\Debug\ShutDownAPP.application
+C:\Users\Maycon\source\repos\ShutDownAPP\ShutDownAPP\bin\Debug\ShutDownAPP.exe.CodeAnalysisLog.xml
+C:\Users\Maycon\source\repos\ShutDownAPP\ShutDownAPP\bin\Debug\ShutDownAPP.exe.lastcodeanalysissucceeded
+C:\Users\Maycon\source\repos\ShutDownAPP - Cópia\ShutDownAPP\bin\Debug\ShutDownAPP.exe.config
+C:\Users\Maycon\source\repos\ShutDownAPP - Cópia\ShutDownAPP\bin\Debug\ShutDownAPP.exe.manifest
+C:\Users\Maycon\source\repos\ShutDownAPP - Cópia\ShutDownAPP\bin\Debug\ShutDownAPP.application
+C:\Users\Maycon\source\repos\ShutDownAPP - Cópia\ShutDownAPP\bin\Debug\ShutDownAPP.exe
+C:\Users\Maycon\source\repos\ShutDownAPP - Cópia\ShutDownAPP\bin\Debug\ShutDownAPP.pdb
+C:\Users\Maycon\source\repos\ShutDownAPP - Cópia\ShutDownAPP\bin\Debug\ShutDownAPP.exe.CodeAnalysisLog.xml
+C:\Users\Maycon\source\repos\ShutDownAPP - Cópia\ShutDownAPP\bin\Debug\ShutDownAPP.exe.lastcodeanalysissucceeded
+C:\Users\Maycon\source\repos\ShutDownAPP - Cópia\ShutDownAPP\obj\Debug\ShutDownAPP.csprojAssemblyReference.cache
+C:\Users\Maycon\source\repos\ShutDownAPP - Cópia\ShutDownAPP\obj\Debug\ShutDownAPP.Form1.resources
+C:\Users\Maycon\source\repos\ShutDownAPP - Cópia\ShutDownAPP\obj\Debug\ShutDownAPP.Properties.Resources.resources
+C:\Users\Maycon\source\repos\ShutDownAPP - Cópia\ShutDownAPP\obj\Debug\ShutDownAPP.csproj.GenerateResource.cache
+C:\Users\Maycon\source\repos\ShutDownAPP - Cópia\ShutDownAPP\obj\Debug\ShutDownAPP.csproj.CoreCompileInputs.cache
+C:\Users\Maycon\source\repos\ShutDownAPP - Cópia\ShutDownAPP\obj\Debug\ShutDownAPP.exe.manifest
+C:\Users\Maycon\source\repos\ShutDownAPP - Cópia\ShutDownAPP\obj\Debug\ShutDownAPP.application
+C:\Users\Maycon\source\repos\ShutDownAPP - Cópia\ShutDownAPP\obj\Debug\ShutDownAPP.exe
+C:\Users\Maycon\source\repos\ShutDownAPP - Cópia\ShutDownAPP\obj\Debug\ShutDownAPP.pdb
+C:\Users\Maycon\Documents\MeusProjetos\ShutDown\ShutDownAPP\ShutDownAPP\bin\Debug\ShutDownAPP.exe.config
+C:\Users\Maycon\Documents\MeusProjetos\ShutDown\ShutDownAPP\ShutDownAPP\bin\Debug\ShutDownAPP.exe.manifest
+C:\Users\Maycon\Documents\MeusProjetos\ShutDown\ShutDownAPP\ShutDownAPP\bin\Debug\ShutDownAPP.application
+C:\Users\Maycon\Documents\MeusProjetos\ShutDown\ShutDownAPP\ShutDownAPP\bin\Debug\ShutDownAPP.exe
+C:\Users\Maycon\Documents\MeusProjetos\ShutDown\ShutDownAPP\ShutDownAPP\bin\Debug\ShutDownAPP.pdb
+C:\Users\Maycon\Documents\MeusProjetos\ShutDown\ShutDownAPP\ShutDownAPP\bin\Debug\ShutDownAPP.exe.CodeAnalysisLog.xml
+C:\Users\Maycon\Documents\MeusProjetos\ShutDown\ShutDownAPP\ShutDownAPP\bin\Debug\ShutDownAPP.exe.lastcodeanalysissucceeded
+C:\Users\Maycon\Documents\MeusProjetos\ShutDown\ShutDownAPP\ShutDownAPP\obj\Debug\ShutDownAPP.csprojAssemblyReference.cache
+C:\Users\Maycon\Documents\MeusProjetos\ShutDown\ShutDownAPP\ShutDownAPP\obj\Debug\ShutDownAPP.Form1.resources
+C:\Users\Maycon\Documents\MeusProjetos\ShutDown\ShutDownAPP\ShutDownAPP\obj\Debug\ShutDownAPP.Properties.Resources.resources
+C:\Users\Maycon\Documents\MeusProjetos\ShutDown\ShutDownAPP\ShutDownAPP\obj\Debug\ShutDownAPP.csproj.GenerateResource.cache
+C:\Users\Maycon\Documents\MeusProjetos\ShutDown\ShutDownAPP\ShutDownAPP\obj\Debug\ShutDownAPP.csproj.CoreCompileInputs.cache
+C:\Users\Maycon\Documents\MeusProjetos\ShutDown\ShutDownAPP\ShutDownAPP\obj\Debug\ShutDownAPP.exe.manifest
+C:\Users\Maycon\Documents\MeusProjetos\ShutDown\ShutDownAPP\ShutDownAPP\obj\Debug\ShutDownAPP.application
+C:\Users\Maycon\Documents\MeusProjetos\ShutDown\ShutDownAPP\ShutDownAPP\obj\Debug\ShutDownAPP.exe
+C:\Users\Maycon\Documents\MeusProjetos\ShutDown\ShutDownAPP\ShutDownAPP\obj\Debug\ShutDownAPP.pdb
