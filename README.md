@@ -1,13 +1,12 @@
 # ShutDown
 
-**How to use**
+# Como usar
  
-This is a program to shut down your computer for a time that you specify.
+Este é um programa para desligar o computador por um tempo especificado.
 
-It's pretty basic, I use it to turn off the computer when I go to see a movie and I know I'm going to sleep.
+É bem básico, eu uso para desligar o computador quando vou assistir a um filme e sei que vou dormir.
 
-
-**Image this program**
+# Imagem
 
 ![shutdown](https://user-images.githubusercontent.com/44651725/83299916-731efe00-a1cd-11ea-8b96-5ffb6a82fc5a.png)
 
